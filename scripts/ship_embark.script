@@ -1,0 +1,2 @@
+override_animation(player, "default", "default_player");
+display_message("Hello, world!");

@@ -1,0 +1,1 @@
+{"battles":{"KAMpf":{"map":"Dorf","type":"tactical"}},"damage_flash_effect":true,"damage_sound_type":"default","death_sound_file":null,"death_sound_type":"custom","encounters":{},"enemies":{"Schleim":{"model":"Fred","xp":10}},"loot_drops":{"Münzen":{"items":[]}},"miss_sound_type":"default","remove_dead_enemies":true,"spawns":{},"weapon_fire_mode":"single"}

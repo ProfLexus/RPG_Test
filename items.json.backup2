@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Fleisch",
+      "description": "",
+      "tags": [],
+      "properties": {},
+      "stackable": false,
+      "image": "pngwing.com (9).png",
+      "usable": false
+    }
+  ],
+  "localized": false
+}

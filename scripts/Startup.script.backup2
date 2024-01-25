@@ -1,0 +1,2 @@
+load_map("Dorf", coord[0, 4, 0], SOUTH);
+display_message("Willkomen im Dorf!");

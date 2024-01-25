@@ -1,0 +1,3 @@
+display_message("Hello, world!", player);
+add_character("Fred", "tile_id", "entity_id");
+attach_object("Wand", player, "attach_point_id");
